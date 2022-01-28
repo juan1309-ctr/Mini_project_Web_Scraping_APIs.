@@ -12,7 +12,7 @@
   
 ## Para empezar
 
-Crea un repositotio en GitHub, dale el nombre del projecto semanal. Crea una carpeta en dicho repositorio que y crea ahí dos main.ipynb. Uno que esté destinado al Webscraping y el otro a APIs. 
+Crea un repositotio en GitHub, dale el nombre del projecto semanal. Crea ahí dos main.ipynb; uno que esté destinado al Webscraping y el otro a APIs. 
 
 
 ## Entregables
